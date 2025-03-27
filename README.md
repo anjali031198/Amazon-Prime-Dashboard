@@ -1,5 +1,7 @@
 # 📊 Amazon Prime Power BI Dashboard
 
+![Amazon dashboard image](https://github.com/user-attachments/assets/72bce23b-2c52-4811-93e7-b8e5e60aa8c1)
+
 ## 🎯 Overview
 This **Amazon Prime Power BI Dashboard** provides a detailed analysis of the platform’s content library, offering insights into ratings, genres, countries, and release trends. It helps in understanding the distribution and popularity of shows across different categories.
 
@@ -22,7 +24,7 @@ The dataset includes:
 - Release years and duration
 - Country-wise content distribution
 - Directors and production details
-![Amazon dashboard image](https://github.com/user-attachments/assets/72bce23b-2c52-4811-93e7-b8e5e60aa8c1)
+
 
 ## 🚀 How to Use
 1. **Clone this repository**:  
