@@ -22,6 +22,7 @@ The dataset includes:
 - Release years and duration
 - Country-wise content distribution
 - Directors and production details
+![Amazon dashboard image](https://github.com/user-attachments/assets/72bce23b-2c52-4811-93e7-b8e5e60aa8c1)
 
 ## 🚀 How to Use
 1. **Clone this repository**:  
